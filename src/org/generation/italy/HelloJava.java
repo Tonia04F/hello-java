@@ -6,7 +6,7 @@ public class HelloJava {
 		
 		System.out.println("Hello Java");
 		System.out.println("faccio secondo push");
-		
+		System.out.println("faccio terzo pugh");
 		
 	}
 	
